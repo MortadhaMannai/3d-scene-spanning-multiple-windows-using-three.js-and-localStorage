@@ -35,7 +35,6 @@ This project is licensed under the [three-LICENSE]
 ## Acknowledgments
 - inspired by code of bgstaal : https://github.com/bgstaal/multipleWindow3dScene?tab=readme-ov-file
 - Special thanks to the creators and contributors of three.js for providing an excellent library for 3D graphics on the web.
-- Acknowledge any additional resources or inspirations used in the development of this example.
 
 ---
 
