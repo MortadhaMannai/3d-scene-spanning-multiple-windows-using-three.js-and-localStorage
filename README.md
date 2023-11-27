@@ -2,6 +2,9 @@
 
 This repository demonstrates the creation of a 3D scene that spans across multiple windows on the same origin using three.js, along with localStorage to synchronize the scene data. The code is designed to be straightforward and easy to understand.
 
+## About
+A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+
 ## Overview
 The project showcases a simple yet effective example of how to establish and manage a 3D environment that spans across multiple browser windows. The setup utilizes three.js, a popular JavaScript library for creating 3D graphics in a web browser.
 
